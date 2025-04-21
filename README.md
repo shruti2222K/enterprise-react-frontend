@@ -1,3 +1,41 @@
+# Enterprise React Frontend
+
+A modern React frontend application for enterprise use.
+
+## Features
+
+- React-based frontend
+- Modern UI components
+- Responsive design
+- Optimized performance
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+
+## Project Structure
+
+- `src/` - Source code
+  - `components/` - Reusable components
+  - `pages/` - Page components
+  - `styles/` - Global styles
+  - `App.js` - Main application component
+  - `index.js` - Entry point
+
+## Technologies Used
+
+- React
+- CSS
+- JavaScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
